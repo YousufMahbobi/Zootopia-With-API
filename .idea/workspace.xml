@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f87d99fe-0823-43eb-aeb3-c274d2654a7d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/data_service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751111028962</updated>
-      <workItem from="1751111030124" duration="13524000" />
+      <workItem from="1751111030124" duration="14579000" />
     </task>
     <servers />
   </component>
@@ -88,6 +87,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Zootopia_With_Api$data_service.coverage" NAME="data_service Coverage Results" MODIFIED="1751116653088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
-    <SUITE FILE_PATH="coverage/Zootopia_With_Api$animals_web_generator.coverage" NAME="animals_web_generator Coverage Results" MODIFIED="1751123393176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Zootopia_With_Api$animals_web_generator.coverage" NAME="animals_web_generator Coverage Results" MODIFIED="1751125404450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
